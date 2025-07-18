@@ -29,6 +29,7 @@ nav {
 .post-text-box {
     flex: 70%;
     padding: 20px;
+    background-color: #7a7a80;
 }
 
 .profile {
