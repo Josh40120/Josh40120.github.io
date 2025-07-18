@@ -8,7 +8,13 @@ nav {
     text-align: center;
     word-spacing: 30px;
     Padding: 10px;
+    background-color: #05b3e8;
 }
+    nav a {
+        color: #000000;
+        text-decoration: none;
+        font-size: larger;
+    }
 /*two-column layout*/
 * {
     box-sizing: border-box;
@@ -17,6 +23,7 @@ nav {
 .row {
     display: flex;
     flex-wrap: wrap;
+    background-color: #7a7a80;
 }
 
 .post-text-box {
